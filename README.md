@@ -114,6 +114,10 @@ The Power BI analysis is structured around four analytical pages:
 4. **From Market Signals to Business Questions**  
    Cross-market synthesis, implications, and additional evidence required for deeper decision-making.
 
+### Dashboard Preview
+
+[View the full Power BI Dashboard (PDF)](./docs/MEPS_Market_Analysis_Dashboard.pdf)
+
 ## Analytical Approach
 
 The project follows:
